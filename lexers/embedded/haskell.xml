@@ -4,6 +4,7 @@
     <alias>haskell</alias>
     <alias>hs</alias>
     <filename>*.hs</filename>
+    <filename>*.purs</filename>
     <mime_type>text/x-haskell</mime_type>
   </config>
   <rules>
